@@ -1,6 +1,6 @@
 ## Kellogg Center for Science of Science & Innovation
 
-<img src="https://github.com/user-attachments/assets/2e063edc-6ce7-4d11-827c-8eb12f2dee9d" wdith=150 height=150>
+<img src="https://github.com/user-attachments/assets/6c537826-3c0e-4eea-9364-a2bf3a65b3e4" wdith=150 height=150>
 
 Science Takes a Leap Inward
 The Center for Science of Science & Innovation (CSSI) is the first center world-wide dedicated to the field of the science of science. The center builds on Kellogg’s long-standing tradition of excellence in this field and helps bring together faculty and students across Kellogg and Northwestern to further and cement our global thought leadership position in the field. A multidisciplinary community by nature, CSSI also serves as the nexus to bring together thought leaders in closely related fields such as computational social science, network science and artificial intelligence.
